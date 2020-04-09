@@ -13,6 +13,6 @@ dependencies:
   flutter:
     sdk: flutter
   http: ^0.12.0+1
-  device_info: ^0.3.0
-  package_info: ^0.3.2
+  device_info: ^0.4.2+1
+  package_info: ^0.4.0+16
   meta: ">=0.9.0 <2.0.0"
